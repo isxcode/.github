@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-   <a href="https://gitee.com/isxcode">简体中文</a> ｜ English
+   English ｜ <a href="https://gitee.com/isxcode">简体中文</a>
 </h4> 
 
 #### Family software
