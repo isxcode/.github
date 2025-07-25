@@ -11,4 +11,4 @@
 | Product                                            | Introduce                                                   | 简介
 |:---------------------------------------------------|:------------------------------------------------------------| :-------------------------------
 | [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Data Center                    | 至轻云-超轻量级智能化数据中心
-| [ **camunda-yun** ](https://zhishuyun.isxcode.com) | No-code BPM application building platform based on Camunda  | 至数云-超轻量级无代码流程平台/企业流程
+| [ **torch-yun** ](https://zhishuyun.isxcode.com)   | Ultra-lightweight Ai-in-one Application Platform            | 至数云-超轻量级一体化应用平台
