@@ -12,3 +12,8 @@
 |:---------------------------------------------------|:------------------------------------------------------------| :-------------------------------
 | [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Data Center                    | 至轻云-超轻量级智能化大数据中心
 | [ **torch-yun** ](https://zhishuyun.isxcode.com)   | Ultra-Intelligent Ai-in-one Application Platform            | 至数云-超轻量级人工智能应用平台
+
+
+### Dual-Driven Solution
+
+<img src="https://img.isxcode.com/picgo/aca0d0c801b4d9974b6e2339e7fb5ced.png" width="400" />
