@@ -10,8 +10,8 @@
 
 | Product                                            | Introduce                                                   | 简介
 |:---------------------------------------------------|:------------------------------------------------------------| :-------------------------------
-| [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Data Center                    | 至轻云-超轻量级智能化大数据中心
-| [ **torch-yun** ](https://zhishuyun.isxcode.com)   | Ultra-Intelligent Ai-in-one Application Platform            | 至数云-超轻量级人工智能应用平台
+| [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Big Data Center                | 至轻云-超轻量级智能化大数据中心
+| [ **torch-yun** ](https://zhishuyun.isxcode.com)   | Ultra-Lightweight AI-in-one Application Platform            | 至数云-超轻量级人工智能应用平台
 
 
 ### Dual-Driven Solution
