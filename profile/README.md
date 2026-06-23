@@ -10,5 +10,5 @@
 
 | Product                                            | Introduce                                                   | 简介
 |:---------------------------------------------------|:------------------------------------------------------------| :-------------------------------
-| [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Big Data Center                | 至轻云-轻量级智能化大数据中心
+| [ **spark-yun** ](https://zhiqingyun.isxcode.com)  | Ultra-Lightweight AI-Powered Data Center                | 至轻云-轻量级智能化大数据中心
 | [ **torch-yun** ](https://zhishuyun.isxcode.com)   | Ultra-Intelligent AI-in-one Application Platform            | 至数云-轻量级企业智能应用平台
